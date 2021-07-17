@@ -3,6 +3,8 @@
 
 WiiU N64 Virtual Console exploit
 
+[Video demonstration](https://www.youtube.com/watch?v=Da8mg6IAoNQ)
+
 ## Technical explanation
 
 It's an exploit implementation the bug found in 2016 by **yellows8**
